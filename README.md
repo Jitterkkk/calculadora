@@ -68,4 +68,4 @@ Este projeto está sob a licença MIT.
 
 ## Preview
 
-![preview](calcpython.png)
+![preview](preview.png)
